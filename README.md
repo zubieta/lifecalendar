@@ -1,7 +1,6 @@
 ## LIFE CALENDAR
 
 This is a small script that I wrote after watching the great TED Talk
-
 [**"Inside the mind of a master procrastinator"**](https://www.ted.com/talks/tim_urban_inside_the_mind_of_a_master_procrastinator) by _Tim Urban_.
 
 It's a customizable way to create a _life calendar_ image. Which can be
@@ -42,7 +41,7 @@ later used as the desktop background.
 
     python lifecalendar.py -c examples/default -b 14/03/1989 -y 85
 
-For more examples check the [examples folder](https://github.com/zurwolf/lifecalendar/tree/master/examples)
+For more examples of the configuration check the [examples folder](https://github.com/zurwolf/lifecalendar/tree/master/examples)
 
 ## LICENSE
 
