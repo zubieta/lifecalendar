@@ -8,11 +8,6 @@ later used as the desktop background.
 
 ![Life calendar with the 'thought provoking' theme](https://github.com/zurwolf/lifecalendar/raw/master/examples/thought_provoking.png "Thought provoking theme example.")
 
-## Dependencies
-
-* python>=3.5
-* Pillow==3.4.2
-
 ## Usage
 
     usage: lifecalendar.py [-h] [-c CONFIG] [-o OUTPUT] [-b BIRTHDATE]
